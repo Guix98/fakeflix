@@ -6,6 +6,6 @@ application:
 name: piratebay-backend
 datasource:
 platform: postgres
-url: jdbc:postgresql://localhost:5433/piratebay_db
+url: jdbc:postgresql://localhost:5433/fakeflix_db
 username: postgres
 password: 12345678
